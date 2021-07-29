@@ -201,10 +201,27 @@ a.social:hover {
     line-height: 1.6em;
   }
 
+  .space {
+    padding-top: 100px;
+  }
+
+  .column {
+    width: 400px;
+    height: 400px;
+    margin: 12px;
+    border: 5px solid #555;
+  }
+  .column:hover {
+    border-color: black;
+  }
+
+  h1 {
+    color: #333;
+    padding-bottom: 20px;
+  }
+
   footer {
     font-size: 1.3em;
     max-width: 1200px;
     margin: 40px auto;
   }
-
-}
