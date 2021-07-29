@@ -1,2 +1,1 @@
-# unit-one-project
- This is my first Treehouse techdegree project
+# This is my first Treehouse Techdegree project, enjoy!
