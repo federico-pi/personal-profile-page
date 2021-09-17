@@ -1,2 +1,2 @@
 # A personal profile page
-Customized a web page with html and some css to create a personal profile.
+Customized a web page with html and css to create a personal profile.
